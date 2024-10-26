@@ -10,7 +10,7 @@ st.image("C:/Users/Eknjz/Pictures/Screenshots/لقطة شاشة 2024-10-26 17385
 
 st.markdown("<h2 style='text-align: center;'>ثانيا:الجنس</h2>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: right; direction: rtl;'>كما أن كل من الذكور يقولون ان اغلب الوظائف نسائية وكذلك النساء يعتقدون ان اغلب الوظائف رجالية والحقيقة هي أن تقريبا النساء والرجال متساويان في الاعلانات الوظيفية </p>", unsafe_allow_html=True)
-st.image("C:/Users/Eknjz/Pictures/Screenshots/لقطة شاشة 2024-10-26 172747.png", caption="النسب المئوية للاعلانات الوظيفية مرتبطة بالجنس", use_column_width=True)
+st.image("لقطة شاشة 2024-10-26 172747.png", caption="النسب المئوية للاعلانات الوظيفية مرتبطة بالجنس", use_column_width=True)
 
 
 st.markdown("<h2 style='text-align: center;'>ثالثا:المناطق الجغرافية</h2>", unsafe_allow_html=True)
