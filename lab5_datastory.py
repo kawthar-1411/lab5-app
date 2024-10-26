@@ -15,4 +15,4 @@ st.image("لقطة شاشة 2024-10-26 172747.png", caption="النسب المئ
 
 st.markdown("<h2 style='text-align: center;'>ثالثا:المناطق الجغرافية</h2>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: right; direction: rtl;'>كما أن أغلب الاعلانات الوظيفية تكون ضمن مناطق جغرافية محددة وذلك عائد الى تنوع الاعمال والنشاطات التجارية في تلك الاماكن واليكم توزيع الاعلانات الوظيفية تبعا للمنطقة الجغرافية</p>", unsafe_allow_html=True)
-st.image("C:/Users/Eknjz/Pictures/Screenshots/لقطة شاشة 2024-10-26 173552.png", caption='توزيع الاعلانات الوظيفية بناء على المنطقة الجغرافية', use_column_width=True)
+st.image("لقطة شاشة 2024-10-26 173552.png", caption='توزيع الاعلانات الوظيفية بناء على المنطقة الجغرافية', use_column_width=True)
