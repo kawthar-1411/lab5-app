@@ -5,7 +5,7 @@ st.markdown("<p style='text-align: right; direction: rtl;'> </p>", unsafe_allow_
 
 st.markdown("<h2 style='text-align: center;'>اولا :سنوات الخبرة</h2>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: right; direction: rtl;'> الكثير من الخريجين يشعرون بالقلق حيال عدد سنوات الخبرة وانها تؤثر بشكل سلبي على الحصول على الوظيفة ولكن بعد عمل الدراسة تبين ان الاعلانات الوظيفية لحديثي التخرج تفوق الاعلانات الوظيفية لذوي الخبرة واليك رسم بياني يوضح النسب لذلك اوصي حديثي التخرج عدم القلق حيال الخبرة والسعي لتطوير مهاراتهم باستمرار لمواكبة متطلبات سوق العمل </p>", unsafe_allow_html=True)
-st.image("C:/Users/Eknjz/Pictures/Screenshots/لقطة شاشة 2024-10-26 173859.png", caption="تأثير سنوات الخبرة على عدد الوظائف المعلن عنها", use_column_width=True)
+st.image("لقطة شاشة 2024-10-26 173859.png", caption="تأثير سنوات الخبرة على عدد الوظائف المعلن عنها", use_column_width=True)
 
 
 st.markdown("<h2 style='text-align: center;'>ثانيا:الجنس</h2>", unsafe_allow_html=True)
